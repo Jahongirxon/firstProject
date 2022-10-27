@@ -248,6 +248,15 @@ header {
   height: 500px;
 } */
 
+/* @media (max-width: 2560px) {
+  .bgLogo {
+    width: 2560px;
+  }
+  .lenta-container {
+    width: 2000px;
+  }
+} */
+
 @media (max-width: 1380px) {
 
 
@@ -895,6 +904,7 @@ header {
   .videoNewSeason {
     width: 375px;
   }
+
   .videoNewSeason section:last-child {
     margin-top: 0;
   }
@@ -1160,6 +1170,7 @@ header {
   }
 }
 
+
 @media (max-width: 376px) {
   .secondBgImg {
     width: 295.2px;
@@ -1241,6 +1252,40 @@ header {
   }
 }
 
+@media (max-width: 361px) {
+  .yandexMap {
+    transform: translateY(70px);
+  }
+
+  .firstUnImgBg,
+  .firstStImg,
+  .firstMlImg,
+  .firstSadikImg,
+  .firstARkImg,
+  .firstManImg {
+    width: 360px;
+  }
+
+  .navbar1,
+  .navbar {
+    margin: 0;
+  }
+
+  .mobile-univer {
+    width: 100%;
+  }
+
+  .videoNewSeason {
+    width: 100%;
+  }
+  .bgLogo {
+    width: 100%;
+  }
+  .section-photo .photo {
+    transform: scale(1.35);
+  }
+}
+
 @media (max-width: 321px) {
   .mobile-univer {
     width: 100%;
@@ -1249,6 +1294,7 @@ header {
   .videoNewSeason {
     width: 301px;
   }
+
   .videoSection {
     width: 300px;
     height: 255px;

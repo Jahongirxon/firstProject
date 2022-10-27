@@ -1,7 +1,7 @@
 import Layout from "../../components/Layout";
 
 
-function Выпускные() {
+function Проекты() {
   return (
     <>
       <div className=" bgLogo">
@@ -13,4 +13,4 @@ function Выпускные() {
   );
 }
 
-export default Выпускные;
+export default Проекты;

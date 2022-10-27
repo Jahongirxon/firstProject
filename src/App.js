@@ -16,7 +16,7 @@ import IZARSTUDIO from "./pages/IZARSTUDIO";
 import Отзывы from "./pages/Отзывы";
 import Lenta from "./pages/Lenta";
 import Mantiya from "./pages/Mantiya";
-import Выпускные from "./pages/Выпускные"
+import Выпускные from "./pages/Проекты"
 import НовинкиСезона from "./pages/НовинкиСезона"
 
 
@@ -29,19 +29,19 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />}></Route>
-          <Route path="/work" element={<Work />} ></Route>
-          <Route path="/about" element={<About />} ></Route>
-          <Route path="/albom/1" element={<Университет />} ></Route>
-          <Route path="/albom/2" element={<CтаршаяШкола />} ></Route>
-          <Route path="/albom/3" element={<МладшаяШкола />} ></Route>
-          <Route path="/albom/4" element={<Садик />} ></Route>
-          <Route path="/albom/5" element={<ARTECHNOLOGY />} ></Route>
-          <Route path="/albom/6" element={<IZARSTUDIO />} ></Route>
-          <Route path="/albom/7" element={<Lenta />} ></Route>
-          <Route path="/albom/8" element={<Mantiya />} ></Route>
-          <Route path="/albom/9" element={<Выпускные />} ></Route>
-          <Route path="/rewiews" element={<Отзывы />} ></Route>
-          <Route path="/new" element={<НовинкиСезона />} ></Route>
+          <Route path="/rabotiy" element={<Work />} ></Route>
+          <Route path="/ONas" element={<About />} ></Route>
+          <Route path="/universitet" element={<Университет />} ></Route>
+          <Route path="/starshayaShkola" element={<CтаршаяШкола />} ></Route>
+          <Route path="/mladshayaShkola" element={<МладшаяШкола />} ></Route>
+          <Route path="/sadik" element={<Садик />} ></Route>
+          <Route path="/artechnology" element={<ARTECHNOLOGY />} ></Route>
+          <Route path="/izarStudio" element={<IZARSTUDIO />} ></Route>
+          <Route path="/lenta" element={<Lenta />} ></Route>
+          <Route path="/mantiya" element={<Mantiya />} ></Route>
+          <Route path="/vipuskniy" element={<Выпускные />} ></Route>
+          <Route path="/otzivi" element={<Отзывы />} ></Route>
+          <Route path="/novinkiSezona" element={<НовинкиСезона />} ></Route>
         </Routes>
       </BrowserRouter>
     </>

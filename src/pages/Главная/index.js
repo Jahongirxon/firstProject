@@ -19,55 +19,64 @@ function Home() {
       id: 1,
       name: "Университет",
       photo: Университет,
-      description: "Создайте незабываемый выпуск с нами!"
+      description: "Создайте незабываемый выпуск с нами!",
+      link: "universitet"
     },
     {
       id: 2,
       name: "Cтаршая школа",
       photo: старшаяШкола,
-      description: "Создадим яркие воспоминания о выпускном вместе!"
+      description: "Создадим яркие воспоминания о выпускном вместе!",
+      link: "starshayaShkola"
     },
     {
       id: 3,
       name: "Младшая школа",
       photo: младшаяШкола,
-      description: "Поздравляем с окончанием четвёртого класса!"
+      description: "Поздравляем с окончанием четвёртого класса!",
+      link: "mladshayaShkola"
     },
     {
       id: 4,
       name: "Детский сад",
       photo: садик,
-      description: "Прощай садик, привет школа. С утра пора в школу!"
+      description: "Прощай садик, привет школа. С утра пора в школу!",
+      link: "sadik"
     },
     {
       id: 5,
       name: "AR-TECHNOLOGY",
       photo: ARTECHNOLOGY,
-      description: "Создавайте оживающие воспоминание вместе с нами!"
+      description: "Создавайте оживающие воспоминание вместе с нами!",
+      link: "artechnology"
     },
     {
       id: 6,
       name: "IZAR-STUDIO",
       photo: IZARSTUDIO,
-      description: "Уютно.Комфортно.Профессионально!"
+      description: "Уютно.Комфортно.Профессионально!",
+      link: "izarStudio"
     },
     {
       id: 7,
       name: "Ленты для выпускников",
       photo: lenta,
-      description: "Мы не просто печатаем ленты, мы дарим эмоции!"
+      description: "Мы не просто печатаем ленты, мы дарим эмоции!",
+      link: "lenta"
     },
     {
       id: 8,
       name: "Мантии для выпускников",
       photo: mantiya,
-      description: "Прокат выпускных мантий!"
+      description: "Прокат выпускных мантий!",
+      link: "mantiya"
     },
     {
       id: 9,
       name: "Проекты с партнёрами",
       photo: проекты,
-      description: "Прокат выпускных мантий!"
+      description: "Прокат выпускных мантий!",
+      link: "vipuskniy"
     }
   ]
 
@@ -84,7 +93,7 @@ function Home() {
                   <div
                     className="section-photo w-full h-auto overflow-hidden rounded-lg -mt-9 mb-2 shadow-lg flex justify-center items-center"
                   >
-                    <a href={`/albom/${i.id}`}>
+                    <a href={`/${i.link}`}>
                       <img src={i.photo} className="photo hover:scale-125 object-cover" />
                     </a>
                   </div>
@@ -96,7 +105,7 @@ function Home() {
                     >{i.name}</span>
                     <p className="description line-clamp-1">{i.description}</p>
                     <Link
-                      to={`/albom/${i.id}`}
+                      to={`/${i.link}`}
                     >
                       <button
                         className=" cardBtn flex justify-center items-center text-white font-serif font-semibold px-6 py-2 rounded-lg shadow-lg hover:scale-105 my-3 btn"

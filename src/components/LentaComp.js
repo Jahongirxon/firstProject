@@ -156,7 +156,7 @@ function LentaComp() {
   return (
     <>
       <div className=" w-full flex justify-center items-center">
-        <div className="  max-w-7xl grid grid-cols-1 justify-items-center space-y-10">
+        <div className="  max-w-7xl grid grid-cols-1 justify-items-center space-y-10 lenta-container">
           <div className=" lentaTitle text-3xl font-semibold">
             Палитра цветов сатина
           </div>

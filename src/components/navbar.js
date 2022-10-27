@@ -25,10 +25,10 @@ function Navbar() {
         </div>
         <div className={isOpen ? " navbar1 bg-white flex justify-center items-center gap-x-3 text-gray-600 text-lg font-normal text-center mr-24 z-20" : 'navbar bg-white flex justify-center items-center gap-x-3 text-gray-600 text-lg font-normal text-center mr-24'}>
           <NavLink to="/" className="page">Главная</NavLink>
-          <NavLink to="/work">Как мы работаем?</NavLink>
-          <NavLink to="/about">О нас</NavLink>
-          <NavLink to="/rewiews">Отзывы</NavLink>
-          <NavLink to="/new">Новинки сезона</NavLink>
+          <NavLink to="/rabotiy">Как мы работаем?</NavLink>
+          <NavLink to="/ONas">О нас</NavLink>
+          <NavLink to="/otzivi">Отзывы</NavLink>
+          <NavLink to="/novinkiSezona">Новинки сезона</NavLink>
         </div>
       </div>
 

@@ -57,7 +57,7 @@ function НовинкиСезона() {
               <iframe width="560" className=" videoSection rounded-lg" height="315" src="https://www.youtube.com/embed/Epn8p-QvJUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </section>
             <section className=" videoText">
-              <span>Виньетки с 3D печатью!</span>
+              <span>Gold Line</span>
             </section>
           </div>
         </div>

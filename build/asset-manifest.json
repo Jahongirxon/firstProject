@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.79b66d64.css",
-    "main.js": "/static/js/main.21b49be0.js",
+    "main.css": "/static/css/main.7a00f359.css",
+    "main.js": "/static/js/main.21156166.js",
     "static/media/syomka10.jpg": "/static/media/syomka10.8f3fca4aa02e439980aa.jpg",
     "static/media/syomka1.JPG": "/static/media/syomka1.d2124afb44d050870a17.JPG",
     "static/media/studio3.jpg": "/static/media/studio3.5e838bf929eb82a96f78.jpg",
@@ -148,11 +148,11 @@
     "static/media/lenta1.webp": "/static/media/lenta1.d5c7016d2ee4077f4e89.webp",
     "static/media/phone.svg": "/static/media/phone.10bae69cab2eeca5ea3c5c9fd6b31fbc.svg",
     "index.html": "/index.html",
-    "main.79b66d64.css.map": "/static/css/main.79b66d64.css.map",
-    "main.21b49be0.js.map": "/static/js/main.21b49be0.js.map"
+    "main.7a00f359.css.map": "/static/css/main.7a00f359.css.map",
+    "main.21156166.js.map": "/static/js/main.21156166.js.map"
   },
   "entrypoints": [
-    "static/css/main.79b66d64.css",
-    "static/js/main.21b49be0.js"
+    "static/css/main.7a00f359.css",
+    "static/js/main.21156166.js"
   ]
 }
