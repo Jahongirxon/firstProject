@@ -10,7 +10,7 @@ import photo6 from "../../media/izarStudio/6.jpg"
 function IZARSTUDIO() {
   return (
     <Layout>
-      <div>
+      <div className="IZARSTUDIO">
         <div className="studioTitle max-w-8xl grid grid-cols-1 justify-items-center space-y-10 text-white p-20 bg-black">
           <span className=" text-4xl">
             Скоро открытие...

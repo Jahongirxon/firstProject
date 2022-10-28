@@ -257,6 +257,57 @@ header {
   }
 } */
 
+@media (max-width: 1921px) {
+  .section-photo {
+    height: 300px;
+  }
+  .photoLenta {
+    transform: scale(1.5);
+  }
+  .photoProyekti {
+    transform: scale(1.35);
+  }
+  .cardName {
+    font-size: 30px;
+  }
+  .description {
+    font-size: 20px;
+  }
+  .thirdUnImg {
+    transform: translateX(15px) scale(1.1);
+  }
+  .stImg4 {
+    transform: translateY(-3px);
+  }
+  .IZARSTUDIO {
+    width: 100%;
+  }
+  .lentaTitle {
+    margin-top: 20px;
+  }
+  .lenta {
+    width: 100%;
+  }
+}
+
+@media (max-width: 1537px) {
+  .section-photo {
+    height: 230px;
+  }
+  .photoLenta {
+    transform: scale(1.1);
+  }
+  .cardName {
+    font-size: 25px;
+  }
+  .description {
+    font-size: 16px;
+  }
+  .photoProyekti {
+    transform: scale(1.1);
+  }
+}
+
 @media (max-width: 1380px) {
 
 
@@ -1278,11 +1329,17 @@ header {
   .videoNewSeason {
     width: 100%;
   }
+
   .bgLogo {
     width: 100%;
   }
+
   .section-photo .photo {
     transform: scale(1.35);
+  }
+
+  .secondBgImg {
+    width: 280px;
   }
 }
 

@@ -20,63 +20,72 @@ function Home() {
       name: "Университет",
       photo: Университет,
       description: "Создайте незабываемый выпуск с нами!",
-      link: "universitet"
+      link: "universitet",
+      class: "photoUniver"
     },
     {
       id: 2,
       name: "Cтаршая школа",
       photo: старшаяШкола,
       description: "Создадим яркие воспоминания о выпускном вместе!",
-      link: "starshayaShkola"
+      link: "starshayaShkola",
+      class: "photoStarshaya"
     },
     {
       id: 3,
       name: "Младшая школа",
       photo: младшаяШкола,
       description: "Поздравляем с окончанием четвёртого класса!",
-      link: "mladshayaShkola"
+      link: "mladshayaShkola",
+      class: "photoMladshaya"
     },
     {
       id: 4,
       name: "Детский сад",
       photo: садик,
       description: "Прощай садик, привет школа. С утра пора в школу!",
-      link: "sadik"
+      link: "sadik",
+      class: "photoSadik"
     },
     {
       id: 5,
       name: "AR-TECHNOLOGY",
       photo: ARTECHNOLOGY,
       description: "Создавайте оживающие воспоминание вместе с нами!",
-      link: "artechnology"
+      link: "artechnology",
+      class: "photoAR"
     },
     {
       id: 6,
       name: "IZAR-STUDIO",
       photo: IZARSTUDIO,
       description: "Уютно.Комфортно.Профессионально!",
-      link: "izarStudio"
+      link: "izarStudio",
+      class: "photoIZAR"
     },
     {
       id: 7,
       name: "Ленты для выпускников",
       photo: lenta,
       description: "Мы не просто печатаем ленты, мы дарим эмоции!",
-      link: "lenta"
+      link: "lenta",
+      class: "photoLenta"
     },
     {
       id: 8,
       name: "Мантии для выпускников",
       photo: mantiya,
       description: "Прокат выпускных мантий!",
-      link: "mantiya"
+      link: "mantiya",
+      class: "photoMantiya"
     },
     {
       id: 9,
       name: "Проекты с партнёрами",
       photo: проекты,
-      description: "Прокат выпускных мантий!",
-      link: "vipuskniy"
+      description: "Незабываемые торжественные церемонии ",
+      link: "vipuskniy",
+      class: "photoProyekti"
     }
   ]
 
@@ -94,7 +103,7 @@ function Home() {
                     className="section-photo w-full h-auto overflow-hidden rounded-lg -mt-9 mb-2 shadow-lg flex justify-center items-center"
                   >
                     <a href={`/${i.link}`}>
-                      <img src={i.photo} className="photo hover:scale-125 object-cover" />
+                      <img src={i.photo} className={` ${i.class} photo hover:scale-125 object-cover`} />
                     </a>
                   </div>
                   <div
