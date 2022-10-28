@@ -327,6 +327,9 @@ header {
   .fivethSadikImg {
     transform: scale(1);
   }
+  .firstManImg {
+    height: 1000px;
+  }
 }
 
 @media (max-width: 1537px) {
