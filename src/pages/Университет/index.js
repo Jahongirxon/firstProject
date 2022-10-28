@@ -34,11 +34,12 @@ function Университет() {
             <div className="text p-10  bg-black opacity-40 text-white w-[700px] h-[675px] rounded-r-md">
               <div className=" grid grid-cols-1">
                 <div className=" text-left grid grid-cols-1 w-full justify-items-start text-2xl space-y-5">
-                  <span>Тип Виньетки: Хард Ковер Классик А4</span>
-                  <span>Размер: 20x30</span>
-                  <span>Тип обложки:Софт-тач твёрдый пр.</span>
-                  <span>Тип печати: Химичиская лабараторная печать с пластикавами страницами количество страниц (10)</span>
-                  <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
+                  <span>Тип Виньетки:TWIX Премиум</span>
+                  <span>Страницы: 20</span>
+                  <span>Обложка: Стекло + деревянная дощечка</span>
+                  <span>Блок: Лабораторная печать из пластиков</span>
+                  <span>Фотосессия: 1.Фотостудия 2.ВУЗ
+                    3. Прогулка по выбору клиента в городе.</span>
                   <span>Бонус: Мантия магистра и подарки</span>
                   <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
                 </div>
@@ -209,13 +210,13 @@ function Университет() {
               <div className="univerFText  text p-10 bg-black opacity-40 text-white w-[700px] h-[675px] rounded-b-md grid grid-cols-1 justify-items-center">
                 <div className=" grid grid-cols-1">
                   <div className=" text-left grid grid-cols-1 w-full justify-items-start">
-                  <span>Тип Виньетки: Хард Ковер Классик А4</span>
-                  <span>Размер: 20x30</span>
-                  <span>Тип обложки:Софт-тач твёрдый пр.</span>
-                  <span>Тип печати: Химичиская лабараторная печать с пластикавами страницами количество страниц (10)</span>
-                  <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
-                  <span>Бонус: Мантия магистра и подарки</span>
-                  <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
+                    <span>Тип Виньетки: Хард Ковер Классик А4</span>
+                    <span>Размер: 20x30</span>
+                    <span>Тип обложки:Софт-тач твёрдый пр.</span>
+                    <span>Тип печати: Химичиская лабараторная печать с пластикавами страницами количество страниц (10)</span>
+                    <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
+                    <span>Бонус: Мантия магистра и подарки</span>
+                    <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
                   </div>
                 </div>
                 <div className="btnContainer w-full my-7 flex justify-center items-center">
@@ -234,13 +235,13 @@ function Университет() {
               <div className="univerFText  text p-10 bg-black opacity-40 text-white  rounded-b-md grid grid-cols-1 justify-items-center">
                 <div className=" grid grid-cols-1">
                   <div className=" text-left grid grid-cols-1 w-full justify-items-start">
-                  <span>Тип Виньетки: Мрамор А4</span>
-                  <span>Размер: 20x30</span>
-                  <span>Тип обложки: Мраморный глянц ( с 3D рисунком), матовый.</span>
-                  <span>Тип печати: Химичиская лабараторная печать с пластикавами страницами количество страниц (10)</span>
-                  <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
-                  <span>Бонус: Мантия магистра и подарки</span>
-                  <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
+                    <span>Тип Виньетки: Мрамор А4</span>
+                    <span>Размер: 20x30</span>
+                    <span>Тип обложки: Мраморный глянц ( с 3D рисунком), матовый.</span>
+                    <span>Тип печати: Химичиская лабараторная печать с пластикавами страницами количество страниц (10)</span>
+                    <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
+                    <span>Бонус: Мантия магистра и подарки</span>
+                    <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
                   </div>
                 </div>
                 <div className=" w-full my-7 flex justify-center items-center">
@@ -258,13 +259,13 @@ function Университет() {
               <div className="univerFText  text p-10 bg-black opacity-40 text-white  rounded-b-md grid grid-cols-1 justify-items-center">
                 <div className=" grid grid-cols-1">
                   <div className=" text-left grid grid-cols-1 w-full justify-items-start">
-                  <span>Тип Виньетки: Хард Ковер Классик А4</span>
-                  <span>Размер: 20x30</span>
-                  <span>Тип обложки:Софт-тач твёрдый пр.</span>
-                  <span>Тип печати: Химичиская лабараторная печать с пластикавами страницами количество страниц (10)</span>
-                  <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
-                  <span>Бонус: Мантия магистра и подарки</span>
-                  <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
+                    <span>Тип Виньетки: Хард Ковер Классик А4</span>
+                    <span>Размер: 20x30</span>
+                    <span>Тип обложки:Софт-тач твёрдый пр.</span>
+                    <span>Тип печати: Химичиская лабараторная печать с пластикавами страницами количество страниц (10)</span>
+                    <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
+                    <span>Бонус: Мантия магистра и подарки</span>
+                    <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
                   </div>
                 </div>
                 <div className=" w-full my-7 flex justify-center items-center">
@@ -282,14 +283,14 @@ function Университет() {
               <div className="univerFText  text p-10 bg-black opacity-40 text-white  rounded-b-md grid grid-cols-1 justify-items-center">
                 <div className=" grid grid-cols-1">
                   <div className=" text-left grid grid-cols-1 w-full justify-items-start">
-                  <span>Тип Виньетки: ROYAL Premium</span>
-                  <span>Размер: 20x30</span>
-                  <span>Тип обложки:Фактурный 3D Печать</span>
-                  <span>Тип печати: Журнальный</span>
-                  <span>Страницы: 20-30 от кол-во студентов</span>
-                  <span>Фотосессия:1.Фотостудия 2.ВУЗ 3. Прогулка по выбору клиента в городе.</span>
-                  <span>Бонус: Мантия магистра и подарки</span>
-                  <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
+                    <span>Тип Виньетки: ROYAL Premium</span>
+                    <span>Размер: 20x30</span>
+                    <span>Тип обложки:Фактурный 3D Печать</span>
+                    <span>Тип печати: Журнальный</span>
+                    <span>Страницы: 20-30 от кол-во студентов</span>
+                    <span>Фотосессия:1.Фотостудия 2.ВУЗ 3. Прогулка по выбору клиента в городе.</span>
+                    <span>Бонус: Мантия магистра и подарки</span>
+                    <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
                   </div>
                 </div>
                 <div className=" w-full my-7 flex justify-center items-center">
@@ -307,13 +308,13 @@ function Университет() {
               <div className="univerFText  text p-10 bg-black opacity-40 text-white rounded-b-md grid grid-cols-1 justify-items-center">
                 <div className=" grid grid-cols-1">
                   <div className=" text-left grid grid-cols-1 w-full justify-items-start">
-                  <span>Тип Виньетки: Хард Ковер Классик А4</span>
-                  <span>Размер: 20x30</span>
-                  <span>Тип обложки:Софт-тач твёрдый пр.</span>
-                  <span>Тип печати: Химичиская лабараторная печать с пластикавами страницами количество страниц (10)</span>
-                  <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
-                  <span>Бонус: Мантия магистра и подарки</span>
-                  <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
+                    <span>Тип Виньетки: Хард Ковер Классик А4</span>
+                    <span>Размер: 20x30</span>
+                    <span>Тип обложки:Софт-тач твёрдый пр.</span>
+                    <span>Тип печати: Химичиская лабараторная печать с пластикавами страницами количество страниц (10)</span>
+                    <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
+                    <span>Бонус: Мантия магистра и подарки</span>
+                    <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
                   </div>
                 </div>
                 <div className=" w-full my-7 flex justify-center items-center">
@@ -331,14 +332,14 @@ function Университет() {
               <div className="univerFText  text p-10 bg-black opacity-40 text-white rounded-b-md grid grid-cols-1 justify-items-center">
                 <div className=" grid grid-cols-1">
                   <div className=" text-left grid grid-cols-1 w-full justify-items-start">
-                  <span>Тип Виньетки: Стандарт</span>
-                  <span>Размер: 20x30</span>
-                  <span>Тип обложки:Стеклянная</span>
-                  <span>Тип печати: Лабораторная печать из пластиков</span>
-                  <span>Страницы: 10</span>
-                  <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
-                  <span>Бонус: Мантия магистра и подарки</span>
-                  <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
+                    <span>Тип Виньетки: Стандарт</span>
+                    <span>Размер: 20x30</span>
+                    <span>Тип обложки:Стеклянная</span>
+                    <span>Тип печати: Лабораторная печать из пластиков</span>
+                    <span>Страницы: 10</span>
+                    <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
+                    <span>Бонус: Мантия магистра и подарки</span>
+                    <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
                   </div>
                 </div>
                 <div className=" w-full my-7 flex justify-center items-center">
@@ -356,14 +357,14 @@ function Университет() {
               <div className="univerFText  text p-10 bg-black opacity-40 text-white rounded-b-md grid grid-cols-1 justify-items-center">
                 <div className=" grid grid-cols-1">
                   <div className=" text-left grid grid-cols-1 w-full justify-items-start">
-                  <span>Тип Виньетки: Элегант</span>
-                  <span>Размер: 20x30</span>
-                  <span>Тип обложки: Бархат с гравировкой и треугольный стекло</span>
-                  <span>Тип печати:  Лабораторная печать из пластиков</span>
-                  <span>Страницы: 20-30 от кол-во студентов</span>
-                  <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
-                  <span>Бонус: Мантия магистра и подарки</span>
-                  <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
+                    <span>Тип Виньетки: Элегант</span>
+                    <span>Размер: 20x30</span>
+                    <span>Тип обложки: Бархат с гравировкой и треугольный стекло</span>
+                    <span>Тип печати:  Лабораторная печать из пластиков</span>
+                    <span>Страницы: 20-30 от кол-во студентов</span>
+                    <span>Фотосессия: 1.Фотостудия 2.ВУЗ</span>
+                    <span>Бонус: Мантия магистра и подарки</span>
+                    <span>Срок: От 60 до 90 рабочих дней от потока заказа</span>
                   </div>
                 </div>
                 <div className=" w-full my-7 flex justify-center items-center">

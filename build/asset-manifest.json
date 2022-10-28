@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.656ddbcb.css",
-    "main.js": "/static/js/main.af607da5.js",
+    "main.css": "/static/css/main.27f307b4.css",
+    "main.js": "/static/js/main.2aea7427.js",
     "static/media/syomka10.jpg": "/static/media/syomka10.8f3fca4aa02e439980aa.jpg",
     "static/media/syomka1.JPG": "/static/media/syomka1.d2124afb44d050870a17.JPG",
     "static/media/studio3.jpg": "/static/media/studio3.5e838bf929eb82a96f78.jpg",
@@ -43,7 +43,7 @@
     "static/media/WUNDERKIND.png": "/static/media/WUNDERKIND.92666ab3693556b8f7a8.png",
     "static/media/starshiy1010.jpg": "/static/media/starshiy1010.7dc79f0dfcdad3d73d1b.jpg",
     "static/media/OXBRIDGE.png": "/static/media/OXBRIDGE.1d5a1c7987ccd838b029.png",
-    "static/media/3.jpg": "/static/media/3.963cf4aa4fd5e07b0cac.jpg",
+    "static/media/3.jpg": "/static/media/3.d1eb336c20c12fe3d84f.jpg",
     "static/media/syomka2.JPG": "/static/media/syomka2.c3bcc4094b1f5f4d09e6.JPG",
     "static/media/младшаяШкола.jpg": "/static/media/младшаяШкола.74255efc29b69ca2c587.jpg",
     "static/media/sadik7.jpg": "/static/media/sadik7.78aee7976d93a2af2f4b.jpg",
@@ -148,11 +148,11 @@
     "static/media/lenta1.webp": "/static/media/lenta1.d5c7016d2ee4077f4e89.webp",
     "static/media/phone.svg": "/static/media/phone.10bae69cab2eeca5ea3c5c9fd6b31fbc.svg",
     "index.html": "/index.html",
-    "main.656ddbcb.css.map": "/static/css/main.656ddbcb.css.map",
-    "main.af607da5.js.map": "/static/js/main.af607da5.js.map"
+    "main.27f307b4.css.map": "/static/css/main.27f307b4.css.map",
+    "main.2aea7427.js.map": "/static/js/main.2aea7427.js.map"
   },
   "entrypoints": [
-    "static/css/main.656ddbcb.css",
-    "static/js/main.af607da5.js"
+    "static/css/main.27f307b4.css",
+    "static/js/main.2aea7427.js"
   ]
 }

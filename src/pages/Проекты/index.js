@@ -15,7 +15,7 @@ function Проекты() {
                 </section>
                 <section className=" videoText">
                   <span>
-                    Создавайте оживающие воспоминание вместе с нами!
+                    Грандиозный выпуск INTERNATIONAL HOUSE OF TASHKENT 2022!!!
                   </span>
                 </section>
               </div>
