@@ -37,7 +37,7 @@ function Footer() {
                 <img src="https://img.icons8.com/ios/50/000000/domain.png" />
               </a>
               <span>
-                www.vinetki.uz
+                www.myvinetki.uz
               </span>
             </li>
             <li className="flex justify-start items-center space-x-2">

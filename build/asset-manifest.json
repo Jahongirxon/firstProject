@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f2f9fec5.css",
-    "main.js": "/static/js/main.0ca1b447.js",
+    "main.js": "/static/js/main.e43ca1c6.js",
     "static/media/syomka10.jpg": "/static/media/syomka10.8f3fca4aa02e439980aa.jpg",
     "static/media/syomka1.JPG": "/static/media/syomka1.d2124afb44d050870a17.JPG",
     "static/media/studio3.jpg": "/static/media/studio3.5e838bf929eb82a96f78.jpg",
@@ -149,10 +149,10 @@
     "static/media/phone.svg": "/static/media/phone.10bae69cab2eeca5ea3c5c9fd6b31fbc.svg",
     "index.html": "/index.html",
     "main.f2f9fec5.css.map": "/static/css/main.f2f9fec5.css.map",
-    "main.0ca1b447.js.map": "/static/js/main.0ca1b447.js.map"
+    "main.e43ca1c6.js.map": "/static/js/main.e43ca1c6.js.map"
   },
   "entrypoints": [
     "static/css/main.f2f9fec5.css",
-    "static/js/main.0ca1b447.js"
+    "static/js/main.e43ca1c6.js"
   ]
 }
