@@ -1410,6 +1410,9 @@ header {
   .secondBgImg {
     width: 280px;
   }
+  .slider {
+    width: 100%;
+  }
 }
 
 @media (max-width: 321px) {
